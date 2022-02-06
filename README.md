@@ -28,3 +28,6 @@ For percentage, it will find how much percent the first number is of the second 
 
 For exponents, the first number is the original number and the second number is the x'th power of the first number (Eg if first number is 4 and second is 3, it finds the value of the 3rd power of 4).
 
+## [Calendar](https://github.com/cFlour/basic-calculators/blob/main/calendar.py)
+
+The calendar just tells you which day of the week did a certain date fell on or will fall on. Here, in the year input, enter 4 digit year number and in the month input, enter two digit month number.
