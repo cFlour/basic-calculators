@@ -10,6 +10,7 @@ Then run the file, enter the neccesary inputs and lo! the calculator works. The 
 Few things to be noted:
 * Everything is case sensitive. So, `Plus` is not the same as `plus`.
 * In most of the places, you need to enter the numerical value of the input asked, not the name in words.
+* Ignore the .github/workflows folder.
 
 # File-by-file usage
 
