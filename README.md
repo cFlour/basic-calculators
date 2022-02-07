@@ -37,4 +37,4 @@ Example:
 The calendar just tells you which day of the week did a certain date fell on or will fall on. Here, in the year input, enter 4 digit year number and in the month input, enter two digit month number.
 
 Example:
-![image](https://user-images.githubusercontent.com/79126652/152731140-2c2b9dbb-75ed-4c42-8f8d-b26c10330711.png)
+![calendarvid](https://i.imgur.com/JiWTW9t.gif)
