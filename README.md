@@ -30,7 +30,7 @@ For percentage, it will find how much percent the first number is of the second 
 For exponents, the first number is the original number and the second number is the x'th power of the first number (Eg if first number is 4 and second is 3, it finds the value of the 3rd power of 4).
 
 Example:
-![calcvid](https://i.imgur.com/kuugXKi.mp4)
+![calcvid](https://i.imgur.com/kuugXKi.webm)
 
 ## [Calendar](https://github.com/cFlour/basic-calculators/blob/main/calendar.py)
 
