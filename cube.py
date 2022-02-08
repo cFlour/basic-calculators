@@ -1,3 +1,4 @@
+#cube
 a=float(input("Side of the cube? "))
 v=a*a*a
 SA=a*a*6
