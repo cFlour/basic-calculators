@@ -1,6 +1,6 @@
 #inputs
 r=float(input("Length of the radius? "))
-pi=float(input("Value of pi? "))
+pi=22/7
 #surface area
 SA=4*pi*r*r
 #volume
