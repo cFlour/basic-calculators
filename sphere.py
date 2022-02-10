@@ -1,10 +1,11 @@
 #inputs
+import math
 r=float(input("Length of the radius? "))
-pi=22/7
+pi=math.pi
 #surface area
-SA=4*pi*r*r
+SA=round(4*pi*r*r,2)
 #volume
-v=(4/3)*pi*r*r*r
+v=round((4/3)*pi*r*r*r,2)
 #output
 print("Surface area is",SA)
 print("Volume is",v)
