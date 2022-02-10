@@ -1,9 +1,10 @@
 #input
+import math
 r=float(input("Radius length? "))
 l=float(input("Slant height length? "))
-pi=22/7
+pi=math.pi
 #calculation
-CSA=pi*r*l
-LSA=pi*r*r
+CSA=round(pi*r*l,2)
+LSA=round(pi*r*r,2)
 TSA=CSA+LSA
 print("CSA=",CSA,",","LSA=",LSA,",","TSA=",TSA,".",sep="")
