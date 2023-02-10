@@ -38,3 +38,7 @@ The calendar just tells you which day of the week did a certain date fell on or 
 
 Example:
 ![calendarvid](https://i.imgur.com/JiWTW9t.gif)
+
+## Other files
+
+These are just examples of how to use. Hoping to set up a heroku app to include all these so you don't need to download anything.
